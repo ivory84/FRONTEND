@@ -1,0 +1,6 @@
+#ugolkrug{
+ background: "lightgrey";
+ color: "black";
+ padding-bottom: 250px;
+ border-radius: 0 100px 100px 0;
+}
